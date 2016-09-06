@@ -1,4 +1,4 @@
-clear all; close all; clc;
+clear; close all; clc;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Author: Du Bin in Beijing Institute of Technology (BIT)
 % Last modified time : 2016/5/22
